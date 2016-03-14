@@ -1,3 +1,8 @@
+# 2.2.0
+- Updated package dependencies to eslint@2.2.0
+  - Awaiting resolution of a [current issue](https://github.com/babel/babel-eslint/issues/267) in eslint-babel before integrating eslint@2.3.0
+- Switched to a versioning approach that attempts to mirror the current _major_._minor_ version of `eslint` being supported. 
+
 # 0.2.1
 - permit function expressions
 
